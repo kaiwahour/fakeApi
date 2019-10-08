@@ -47,5 +47,19 @@
             "body": "普通通りミーティングが　火曜日　午後５－７　Olson 53aで行われます。後で「会話後飯」。Let's go　行きましょう！"
         }
         
+    },
+    {
+        "id": 5,
+        "date": "10/08/2019",
+        "en": {
+            "title": "Welcome back everyone!",
+            "body": "As fall quarter at UC Davis begins, Kaiwa Hour resumes normal operations. Welcome back everyone!"
+        },
+        "jp": {
+            "title": "お帰り、みなさん",
+            "body": "秋の学期が始まると、会話アワーも普通の行動を再起動します。お帰り、皆さん！"
+        }
+        
     }
+
 ]
