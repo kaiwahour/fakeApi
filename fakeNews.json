@@ -60,6 +60,18 @@
             "body": "秋の学期が始まると、会話アワーも普通の行動を再起動します。お帰り、皆さん！"
         }
         
+    },
+    {
+        "id": 6,
+        "date": "7/09/2020",
+        "en": {
+            "title": "Awaiting the end of COVID-19",
+            "body": "...Kaiwa Hour will not be (physically) meeting until large face-to-face gatherings are once again permitted."
+        },
+        "jp": {
+            "title": "COVID-19の終わり期待中",
+            "body": "今、大ミーティングが禁止なんですが…　T.T"
+        }
+        
     }
-
 ]
