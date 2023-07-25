@@ -73,5 +73,77 @@
             "body": "今、大ミーティングが禁止なんですが…　T.T"
         }
         
-    }
+    },
+	{
+        "id": 7,
+        "date": "10/04/2021",
+        "en": {
+            "title": "Kaiwa Hour has returned!",
+            "body": "After a long wait, we're finally ready to meet back for Kaiwa Hour again after COVID.　We look forward to seeing you back at Olson 53A with us!"
+        },
+        "jp": {
+            "title": "会話アワー復活！",
+            "body": "やっとコロナがちょっと落ち着いたと見えて、会話アワーを再開させる準備ができました。またOlson５３Aでの再会をお楽しみにしております！"
+        }
+    },
+	{
+        "id": 8,
+        "date": "01/01/2022",
+        "en": {
+            "title": "Continuing Kaiwa Hour into 2022",
+            "body": "Happy New Year! We're proud to announce that Kaiwa Hour will be continued every week through 2022. We had a great 2021 together and we look forward to making more great memories with everyone!"
+        },
+        "jp": {
+            "title": "２０２２年、あけましておめでとうございます",
+            "body": "あけおめ！２０２１年が無事に終わって、これからも会話アワーが２０２２年も続きます。また皆さんと楽しい思い出を作るのにお楽しみにしております！"
+        }
+    },
+	{
+        "id": 9,
+        "date": "04/30/2022",
+        "en": {
+            "title": "Official Kaiwa Hour BBQ",
+            "body": "Led by Ray, we'll be having a big Kaiwa Hour BBQ with Japanese and Korean grilled meat skewers, along with other food. Anyone is invited, just please bring $12 and you can have unlimited food!"
+        },
+        "jp": {
+            "title": "公式会話アワーバーベキュー",
+            "body": "レイに率いいて会話アワーバーベキューをやります！日本風と韓国風両方の串を焼きます。値段は１２ドルで食べ放題です。どうぞお越しください！"
+        }
+    },
+	{
+        "id": 9,
+        "date": "06/21/2022",
+        "en": {
+            "title": "Summer Kaiwa Hour Activities",
+            "body": "We'll be continuing Kaiwa Hour into the summer as well. Along with the typical club meeting every Tuesday night, some other plans on the horizon include game nights at the MU with billiards and bowling, trips to Sacramento or San Francisco, seeing a baseball game, going to Six Flags, and another BBQ. Stay tuned!"
+        },
+        "jp": {
+            "title": "会話アワーの夏の活動",
+            "body": "会話アワーは夏も続ける予定です。毎週火曜日の夜に行われるミーティングのほかにも、MUでのビリヤードやボーリングなどのゲームナイト、サクラメントやサンフランシスコへの遠足、野球観戦、シックス・フラッグスへの遠足、そしてまたのバーベキューなども予定しています。ご期待ください！"
+        }
+    },
+	{
+        "id": 10,
+        "date": "10/15/2022",
+        "en": {
+            "title": "2nd Kaiwa Hour BBQ",
+            "body": "We're doing another BBQ! This time the price will be $15, but the meat we got is really, really good, and we got a ton of it, so it'll be worth it. Once you pay it's all you can eat for the whole night. We hope you come!"
+        },
+        "jp": {
+            "title": "会話アワー第2回バーベキュー",
+            "body": "またバーベキューをやります！今回は15ドルになるけど、この肉は美味しくて、量も多いから、それだけの価値はあります！一度払えば一晩中食べ放題ですので、ぜひ来てください！"
+        }
+    },
+	{
+        "id": 11,
+        "date": "06/01/2023",
+        "en": {
+            "title": "Summer Kaiwa Hour",
+            "body": "Kaiwa Hour is continuing all through this summer! As always, it's every Tuesday night in Olson 53A from 5:00-7:00pm. We hope to see you there!"
+        },
+        "jp": {
+            "title": "会話アワー第2回バーベキュー",
+            "body": "海和アワーはこの夏も続きます！いつものように、毎週火曜日の夜5:00-7:00pmにOlson 53Aで行われます。皆様のご参加をお待ちしております！"
+        }
+    },
 ]
